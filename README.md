@@ -9,7 +9,7 @@ https://docs.google.com/drawings/d/1OjKFC-45Vjxww_mOeZDNmFHeWapBdBEBz_H8RkfJXjQ/
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+https://docs.google.com/drawings/d/1z7B0QOzfWqonLkrC7Ff_KNYUN0jdluheUiCFFZj9QEc/edit?usp=sharing)
 
 
 ## W2
