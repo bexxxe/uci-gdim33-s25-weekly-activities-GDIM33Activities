@@ -20,3 +20,9 @@ https://docs.google.com/drawings/d/1z7B0QOzfWqonLkrC7Ff_KNYUN0jdluheUiCFFZj9QEc/
 3. I think the Set Cursor lock could be relevant when chatting with the NPCs, but my game is also stationary, so I'm unsure how much value that would add.
 4. Yes, Game State would be helpful for the NPCs; they would need to walk into frame and stop to have a conversation with the player.
 
+## W4
+Playtest
+
+1. In my game, the shop inventory UI is done. There is one customer who comes up and asks for what they want, but I have not put in what happens when they get the item. You can drag things in and out of inventory and put them on the counter in front of the customer. My main goal is for the layout to be intuitive enough that people can tell what to do and for the customer prompt to be readable.
+2. My playtest members are: Andrew Xu, Pinhsuan Wang, Sonia
+
