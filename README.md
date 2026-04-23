@@ -28,5 +28,5 @@ Playtest
 
 Devlog
 1. A writer could add more dialogue without writing more code because everything is in Unity, and you can add lines without writing more code.
-2. 
+2. There is no Limit.
 3. The purpose of the regenerate Node Button is to reload the node so that any new nodes that were added can get put in, including C# scripts that were added.
