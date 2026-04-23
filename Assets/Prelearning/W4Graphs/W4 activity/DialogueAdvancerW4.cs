@@ -3,12 +3,13 @@ using Unity.VisualScripting;
 
 namespace W4Activity
 {
+    
     public class DialogueAdvancerW4 : MonoBehaviour
     {
         // Singleton stuff- allows this class to be accessed from anywhere in the codebase without a reference (like a member variable)
         // do not edit this line
         public static DialogueAdvancerW4 _Instance {get; private set;}
-
+        [SerializeField] private DialogueNodeW4 dialoguenode;
         // More Singleton stuff
         // do not edit this method
         private void Awake() {
