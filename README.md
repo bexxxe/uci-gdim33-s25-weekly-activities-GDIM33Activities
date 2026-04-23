@@ -12,7 +12,11 @@ https://docs.google.com/drawings/d/1OjKFC-45Vjxww_mOeZDNmFHeWapBdBEBz_H8RkfJXjQ/
 https://docs.google.com/drawings/d/1z7B0QOzfWqonLkrC7Ff_KNYUN0jdluheUiCFFZj9QEc/edit?usp=sharing)
 
 
-## W2
-Write your W2 Devlog here.
+## W3
+(https://docs.google.com/drawings/d/1z7B0QOzfWqonLkrC7Ff_KNYUN0jdluheUiCFFZj9QEc/edit?usp=sharing)
 
-Continue adding additional headers below this one for future weeks and future activities.
+1. Saving the event name is useful because we can call on it again in future graphs across GameObjects.
+2. I used the Debug log on the Walrus click to see if the click triggered. It's hard to tell whether the nodes work for something other than movement, so seeing a response in the console is helpful.
+3. I think the Set Cursor lock could be relevant when chatting with the NPCs, but my game is also stationary, so I'm unsure how much value that would add.
+4. Yes, Game State would be helpful for the NPCs; they would need to walk into frame and stop to have a conversation with the player.
+
