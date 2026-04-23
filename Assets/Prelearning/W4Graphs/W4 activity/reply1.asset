@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
   m_Name: reply1
   m_EditorClassIdentifier: Assembly-CSharp::W4Activity.DialogueNodeW4
-  Line: 
+  Line: yoyo
   ReplyOptions: []

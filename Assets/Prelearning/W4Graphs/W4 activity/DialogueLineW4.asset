@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
   m_Name: DialogueLineW4
   m_EditorClassIdentifier: Assembly-CSharp::W4Activity.DialogueNodeW4
-  Line: 
-  ReplyOptions: []
+  Line: hello
+  ReplyOptions:
+  - line: 1
+    nextNode: {fileID: 11400000, guid: 007bbfbad6a7bbf4f840c469966bba0b, type: 2}
+  - line: 2
+    nextNode: {fileID: 11400000, guid: 9adadfe2f1b40fc43a4595c663849bfd, type: 2}
