@@ -21,6 +21,11 @@ namespace W4Activity
             _Instance = this;
         }
 
+        void Start()
+        {
+            EventBus.Trigger(VsEventNames.NewDialogueEvent, dialoguenode);
+        }
+
         // Button hooks up to this method
         // do not edit this method
         public void ChooseDialogue (DialogueNodeW4 nextLine)
