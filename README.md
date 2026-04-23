@@ -26,3 +26,7 @@ Playtest
 1. In my game, the shop inventory UI is done. There is one customer who comes up and asks for what they want, but I have not put in what happens when they get the item. You can drag things in and out of inventory and put them on the counter in front of the customer. My main goal is for the layout to be intuitive enough that people can tell what to do and for the customer prompt to be readable.
 2. My playtest members are: Andrew Xu, Pinhsuan Wang, Sonia
 
+Devlog
+1. A writer could add more dialogue without writing more code because everything is in Unity, and you can add lines without writing more code.
+2. 
+3. The purpose of the regenerate Node Button is to reload the node so that any new nodes that were added can get put in, including C# scripts that were added.
