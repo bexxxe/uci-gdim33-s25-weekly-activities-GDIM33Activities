@@ -31,7 +31,7 @@ Devlog
 2. There is no Limit.
 3. The purpose of the regenerate Node Button is to reload the node so that any new nodes that were added can get put in, including C# scripts that were added.
 
-##W5
+## W5
 Activity 1: Breakdown
 Im choosing to add scriptable objects to my game for the items. So that when the customer asks for something, the dialogue will be in the objects.
 Big Steps:
