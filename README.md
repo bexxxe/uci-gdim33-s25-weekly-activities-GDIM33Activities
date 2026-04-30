@@ -30,3 +30,24 @@ Devlog
 1. A writer could add more dialogue without writing more code because everything is in Unity, and you can add lines without writing more code.
 2. There is no Limit.
 3. The purpose of the regenerate Node Button is to reload the node so that any new nodes that were added can get put in, including C# scripts that were added.
+
+##W5
+Activity 1: Breakdown
+Im choosing to add scriptable objects to my game for the items. So that when the customer asks for something, the dialogue will be in the objects.
+Big Steps:
+1. Create the Scriptable Object and test that data can be read and stored.
+Then
+2. Connect the Scriptable Object to the items and the mat so that the correct dialogue triggers based on the item.
+
+Detailed Steps
+Step 1:
+1. Create an ItemData script that has fields for item name, item sprite, correct dialogue, and wrong dialogue. Then I save and check whether it worked and whether there are any errors in the console.
+2. Create one ItemDate asset in the project window using the Create menu. Fill in the fields in the inspector, check that everything is going ok, and save.
+3. Add a public ItemData Field to the object script that is already there. Then, start by adding debug.log to print the item name and check whether it has the correct name in the console.
+Step 2:
+1. Add a public field to the mat where the item will sit, then assign it to one of the items in the inspector. Test by adding a debug.log to confirm when the item is dropped.
+2. Replace the compare tag in one of the scripts to check into the item drop with a comparison between the dropped items' data and the public on the mat. Add a debug.log to see if the item is correct. dropping the correct item should print "true," and another should print "false".
+3. Add right and wrong dialogues into the values and run the game, drop the item, and see if it's working.
+
+Activity 2:
+I built a state machine for the items in the inventory and assigned tags to them. Having fields like Item name, correct dialogue, wrong dialogue, and item sprite. I only did this one item because I only have one customer so far. I tested at each stage. I also plan on adding a Scriptable Object for characters.
