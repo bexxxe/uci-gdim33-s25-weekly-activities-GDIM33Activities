@@ -40,11 +40,15 @@ Then
 2. Connect the Scriptable Object to the items and the mat so that the correct dialogue triggers based on the item.
 
 Detailed Steps
+
 Step 1:
+
 1. Create an ItemData script that has fields for item name, item sprite, correct dialogue, and wrong dialogue. Then I save and check whether it worked and whether there are any errors in the console.
 2. Create one ItemDate asset in the project window using the Create menu. Fill in the fields in the inspector, check that everything is going ok, and save.
 3. Add a public ItemData Field to the object script that is already there. Then, start by adding debug.log to print the item name and check whether it has the correct name in the console.
+   
 Step 2:
+
 1. Add a public field to the mat where the item will sit, then assign it to one of the items in the inspector. Test by adding a debug.log to confirm when the item is dropped.
 2. Replace the compare tag in one of the scripts to check into the item drop with a comparison between the dropped items' data and the public on the mat. Add a debug.log to see if the item is correct. dropping the correct item should print "true," and another should print "false".
 3. Add right and wrong dialogues into the values and run the game, drop the item, and see if it's working.
