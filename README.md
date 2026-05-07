@@ -60,7 +60,10 @@ I built a state machine for the items in the inventory and assigned tags to them
 Playtest:
 
 What's new: I made all the items and the NPC scriptable objects and added an end-of-day panel that shows how much money the player made. Before, I was using tags on the items, but I transitioned; it isn't really a noticeable feature at the front, but there was a change.
+
 Game link: https://becxah.itch.io/racoon-pawn-shop
+
 Goal: Just for everything to work, and hopefully, the game is intuitive enough. All the items have their own dialogue response and money value. There is only one sprite so far, so hopefully it will be more noticeable later. I hope that the player will finish out the day.
+
 Playtesting Notes: I was using the trackpad, so the hold-and-drag controls weren't very intuitive. Said that they liked the dialogue and that it was cool. They also liked that the item hover indicated that the pointer is over the item. Said it would be cool if I added an interaction when the user clicks the dog.
 
