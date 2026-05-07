@@ -69,7 +69,7 @@ Playtesting Notes: I was using the trackpad, so the hold-and-drag controls weren
 
 Activity Questions: 
 
-1. The Multiply setting doubles the values; the colors are from 0 to 1, so if the first color is 0.3 and the second color is 0.1, then the output of that is 0.4, making it darker and less saturated because it combines them.
+1. The Multiply setting doubles the values; the colors are from 0 to 1, so if the first color is 0.3 and the second color is 0.1, then the output will be darker because multiplying 2 decimals makes it smaller, making it darker and less saturated because it combines them.
 
 2. It will get more translucent because its alpha is multiplied by alpha, doubling the alpha value, making it more translucent.
 
