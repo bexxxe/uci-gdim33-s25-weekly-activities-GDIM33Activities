@@ -67,3 +67,13 @@ Goal: Just for everything to work, and hopefully, the game is intuitive enough. 
 
 Playtesting Notes: I was using the trackpad, so the hold-and-drag controls weren't very intuitive. Said that they liked the dialogue and that it was cool. They also liked that the item hover indicated that the pointer is over the item. Said it would be cool if I added an interaction when the user clicks the dog.
 
+Activity Questions: 
+
+1. The Multiply setting doubles the values; the colors are from 0 to 1, so if the first color is 0.3 and the second color is 0.1, then the output of that is 0.4, making it darker and less saturated because it combines them.
+
+2. It will get more translucent because its alpha is multiplied by alpha, doubling the alpha value, making it more translucent.
+
+3. It's in the vertex data of the UV mesh on the shiba/game object.
+
+4. Math and colors don't sound that appealing to me. 
+
