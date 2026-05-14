@@ -75,5 +75,15 @@ Activity Questions:
 
 3. It's in the vertex data of the UV mesh on the shiba/game object.
 
-4. Math and colors don't sound that appealing to me. 
+4. Math and colors don't sound that appealing to me.
 
+## W7
+
+Devlog Questions:
+1. The data for the Vertex Color node comes from the Shiba Mesh.
+2. It's blended at the edges because each vertex has a color, and going between the vertices, they have different colors, so they become interpolated when they reach out to each other.
+3. We are using a vertex from a mesh, which is less detailed than a texture. This is helpful because it helps artists notice discrepancies or mistakes in the mesh.
+4. In the back leg of the Shiba, there is a discrepancy in colors compared to the colors around it. 
+5. UV map because it will give us all the colors applied to the mesh.
+6. The surface of the leg isn't perpendicular to the surface.
+7. It's additive because it adds color, making it more opaque for the brighter parts.
