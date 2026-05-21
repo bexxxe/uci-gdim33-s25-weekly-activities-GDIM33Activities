@@ -87,3 +87,14 @@ Devlog Questions:
 5. UV map because it will give us all the colors applied to the mesh.
 6. The surface of the leg isn't perpendicular to the surface.
 7. It's additive because it adds color, making it more opaque for the brighter parts.
+
+## W8
+Playtest:
+
+What's New: I added some new art, like the background, and did some UI work. It was wonky last time, so I aligned them better and also fixed my layers. Just some smoothing of the game and a visual upgrade; also fixed some timeline issues.
+
+Playtest Link: https://becxah.itch.io/rps-playtest
+
+Goal: For everything to still work and for the new dialogue and characters to be understood. I Im a little concerned that the dialogue might be hard to understand, but I hope people get the game's goal. I hope that all the mech still work.
+
+Playtest Notes: There is a bug (this wasn't there before) where multiple objects can be placed on the mat, and even if it was the wrong item, the NPC would take it away. People didn't really know how to give NPC items, so I suggested adding a highlight over where I needed to place the item, aka the mat. Some of the dialogue was confusing to players, and some tried every item before giving the right one. A lot of people don't know that nectar is a liquid. Someone also suggested that the player should lose money if they got it wrong, for some stakes. Also, a cutscene was suggested to give context.
