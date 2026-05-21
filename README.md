@@ -98,3 +98,14 @@ Playtest Link: https://becxah.itch.io/rps-playtest
 Goal: For everything to still work and for the new dialogue and characters to be understood. I Im a little concerned that the dialogue might be hard to understand, but I hope people get the game's goal. I hope that all the mech still work.
 
 Playtest Notes: There is a bug (this wasn't there before) where multiple objects can be placed on the mat, and even if it was the wrong item, the NPC would take it away. People didn't really know how to give NPC items, so I suggested adding a highlight over where I needed to place the item, aka the mat. Some of the dialogue was confusing to players, and some tried every item before giving the right one. A lot of people don't know that nectar is a liquid. Someone also suggested that the player should lose money if they got it wrong, for some stakes. Also, a cutscene was suggested to give context.
+
+Activity Questions:
+1. The value of the Time node keeps increasing. The result of taking a time gives us a decimal value that cycles between 0.0 and 0.99. So we get a looping animation that moves the texture from its normal UV sample to the maximum-displaced sample.
+
+2. It needs to be black because black acts as a transparent, and does not alter the base sprite texture, unsure.
+   
+3. It's because of the name that we gave it, it's named MainTex and only uses the texture that was assigned to the og item.
+   
+6. Multiplying time by speed inside the function speeds up the cycle's frequency, making the effect move faster, otherwise it wouldnt change speed.
+
+
