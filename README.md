@@ -108,4 +108,17 @@ Activity Questions:
    
 6. Multiplying time by speed inside the function speeds up the cycle's frequency, making the effect move faster, otherwise it wouldnt change speed.
 
+## W9
+Brainstorming:
+
+Game: Ori and the Blind Forest/ Ori and the Will of the Wisps
+
+Brainstorm: There were lots of different types of shaders in the game, including interactive foliage and full-screen distortion, like fog or mist. For foliage manipulation, you would need to bend it using geometry and a player proxy so that the player can interact with the environment around them. For the Fog and mist, it would need to be a full-screen post-processing effect that warps the UV and uses a volume component that can be triggered both in gameplay and out of play.
+
+ShaderGraph:
+<img width="1212" height="797" alt="image" src="https://github.com/user-attachments/assets/17c45556-2367-4259-992b-d37f6cdba263" />
+I Im trying to make a glow effect for one of the objects, but it was only glowing in the scene, not in the game. I needed to install Post Processing in my Unity packages, tick a box on my camera to enable post-processing, and create a global volume for bloom.
+
+
+
 
