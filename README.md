@@ -119,6 +119,20 @@ ShaderGraph:
 <img width="1212" height="797" alt="image" src="https://github.com/user-attachments/assets/17c45556-2367-4259-992b-d37f6cdba263" />
 I Im trying to make a glow effect for one of the objects, but it was only glowing in the scene, not in the game. I needed to install Post Processing in my Unity packages, tick a box on my camera to enable post-processing, and create a global volume for bloom.
 
+## W10
+Playtest:
 
+What's New: I mainly made some quality-of-life changes and bug fixes so that everything runs more smoothly. I changed the dialogue of one of the characters to hopefully make it clearer. I also fixed the mat and how people could place multiple items there.
+
+Platest link: https://becxah.itch.io/rps-playtest
+
+Goal: For the item, the 2nd NPC wants to be clearer so people know what they want. Also, hopefully, no more bugs with items and placing.
+
+Playtesting Notes: There aren't any bugs when placing items anymore, but players are still struggling with where to put them, so I really need to fix that. My game is dialogue-dependent, so it's hard for non-English speakers to understand some words. I think adding color descriptions helps a bit with narrowing down the options.
+
+Devlog:
+Strategy: Think about the genre of game to make, and think about what the key points of it are. Think about the key mechanisms and the most important part of them. Planning everything on paper helps write down ideas and breaks down the planning process. Start with the easiest and most fun mechanism to motivate starting the game-making process. Break down those big mechanics into smaller bubbles to help identify what each needs. Playtest and fill in holes that stunt the game experience.
+
+Narrow down your goal if it seems unrealistic or if you don't think you can complete it. Generally, after the first build, you will narrow down your window and know what you are and aren't capable of. Usually, people shoot beyond what is possible, so being flexible is a plus.
 
 
